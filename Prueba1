@@ -1,0 +1,9 @@
+import pygame
+import numpy
+import matplotlib
+
+print("PYGAME:", pygame.version.ver)
+print("NUMPY:", numpy.__version__)
+print("MATPLOTLIB:", matplotlib.__version__)
+
+print("Todas las librerias funcionan correctamente")
